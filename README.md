@@ -10,7 +10,7 @@ This is a **UI/learning project** (no real Netflix API/auth) — it uses **local
 - Featured hero **autoplay looping video** with title, year, genres, description
 - Multiple **movie rows** using `vue3-carousel`
 - Click a poster to open **full-screen playback** (with controls + back button)
-- Global state via **Pinia** (current movie + full-screen toggle)
+- Global state via **Pinia** (current movie + full screen toggle)
 - Animations via `animate.css`
 
 ---
